@@ -2,8 +2,6 @@
 
 ###
 
-<p align="left">Currently I work at PT Tristar Surya Gemilang as a Backend Developer</p>
-
 ###
 
 <div align="center">

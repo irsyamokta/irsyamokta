@@ -23,7 +23,7 @@
 ### 🌟 Skills & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,php,go,python,laravel,next,express,nodejs,docker,git,github,mysql,postgres,postman,gcp&perline=6" alt="Skills and Tools"/>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,php,go,python,laravel,next,express,nodejs,docker,git,github,mysql,postgres,postman,gcp&perline=9" alt="Skills and Tools"/>
 </div>
 
 ---

@@ -13,9 +13,9 @@
 ### 📊 Stats
 
 <div align="center" style="display:flex; flex-direction:row; justify-content:space-between; align-items:center;">
-  <img src="https://streak-stats.demolab.com?user=irsyamokta&theme=dark" alt="GitHub Streak Stats" width="32%"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=irsyamokta&show_icons=true&theme=radical" alt="GitHub Stats" width="32%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irsyamokta&layout=compact&theme=radical" alt="Top Languages" width="32%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=irsyamokta&theme=gruvbox&hide_border=true" alt="GitHub Stats" width="32%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=irsyamokta&theme=gruvbox&show_icons=true&hide_border=true&count_private=true" alt="GitHub Streak Stats" width="32%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irsyamokta&theme=gruvbox&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" width="32%"/>
 </div>
 
 ---

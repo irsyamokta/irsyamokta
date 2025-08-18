@@ -14,8 +14,8 @@
 
 <div align="center" style="display:flex; flex-direction:row; justify-content:space-between; align-items:center;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=irsyamokta&theme=react&hide_border=true" alt="GitHub Stats" width="32%"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=irsyamokta&theme=dracula&show_icons=true&hide_border=true&count_private=true" alt="GitHub Streak Stats" width="32%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irsyamokta&theme=dracula&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" width="32%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=irsyamokta&theme=react&show_icons=true&hide_border=true&count_private=true" alt="GitHub Streak Stats" width="32%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irsyamokta&theme=react&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" width="32%"/>
 </div>
 
 ---
